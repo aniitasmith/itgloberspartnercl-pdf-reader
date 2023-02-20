@@ -37,6 +37,9 @@ The pdf-reader component allows you to view pdf-type documents so that they can 
     }
   }
    ```
+| Block name     | Description                                     |
+| -------------- | ----------------------------------------------- |
+| `pdf-reader` | ![https://img.shields.io/badge/-Mandatory-red](https://img.shields.io/badge/-Mandatory-red)  Top level block that must be declared in the store-theme block to render a default pdf reader viewer.   |
 
 ### list-context.bullet-group props
 
@@ -49,6 +52,7 @@ The pdf-reader component allows you to view pdf-type documents so that they can 
 
 ## Customization
 
+No CSS Handles are available yet for the app customization.
 <!-- DOCS-IGNORE:start -->
 
 ## Contributors ✨
