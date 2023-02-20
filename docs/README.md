@@ -4,7 +4,7 @@
 
 <!-- DOCS-IGNORE:start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
@@ -41,7 +41,7 @@ The pdf-reader component allows you to view pdf-type documents so that they can 
 | -------------- | ----------------------------------------------- |
 | `pdf-reader` | ![https://img.shields.io/badge/-Mandatory-red](https://img.shields.io/badge/-Mandatory-red)  Top level block that must be declared in the store-theme block to render a default pdf reader viewer.   |
 
-### list-context.bullet-group props
+### Pdf-reader props
 
 | Prop name    | Type            | Description    | Default value                                                                                                                               |
 | ------------ | --------------- | --------------------------------------------------------------------- | ---------- | 
@@ -49,10 +49,10 @@ The pdf-reader component allows you to view pdf-type documents so that they can 
 | `width`        | `number`       | Define the width  to render pdf-reader apps      | `undefined`              |
 | `height`        | `number`       | Define the height to render pdf-reader apps         | `undefined`              |
 
-
 ## Customization
 
 No CSS Handles are available yet for the app customization.
+
 <!-- DOCS-IGNORE:start -->
 
 ## Contributors ✨
