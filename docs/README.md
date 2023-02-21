@@ -14,9 +14,9 @@ The pdf-reader component allows you to view pdf-type documents so that they can 
 
 ## Configuration 
 
-1. Import the Bullet pdf-reader's app to your theme's dependencies in the manifest.json, for example:
+1. Import the pdf-reader's app to your theme's dependencies in the manifest.json, for example:
 ```json
-  dependencies: {
+  "dependencies": {
     "{vendor}.pdf-reader": "0.x"
   }
  ```
@@ -43,7 +43,7 @@ The pdf-reader component allows you to view pdf-type documents so that they can 
 
 ### Pdf-reader props
 
-| Prop name    | Type            | Description    | Default value                                                                                                                               |
+| Prop name    | Type            | Description    | Default value                                                                                       |
 | ------------ | --------------- | --------------------------------------------------------------------- | ---------- | 
 | `pdfURL`        | `string`       |  Define the url to render in the pdf-reader file       | `undefined`              |
 | `width`        | `number`       | Define the width  to render pdf-reader apps      | `undefined`              |
